@@ -133,4 +133,3 @@ You can see the `repository` replaced to right value
 
 
 
-Created for FuchiCorp developed by FuchiCorp DevOps team enjoy using it
